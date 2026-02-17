@@ -158,5 +158,4 @@ What finally worked:
 
 ## Related Issues
 
-- Initial deployment: [link to other doc if exists]
 - Future consideration: Implement MTU monitoring/alerting with Prometheus
